@@ -34,6 +34,9 @@ To kickstart your crew of AI agents and begin task execution, run this from the 
 ```bash
 $ crewai run
 ```
+
+
+```bash
 **.
 ├── tools/config/
 │   ├── agents.yaml       # Configuration for agents
@@ -44,6 +47,7 @@ $ crewai run
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 **
+```
 
 This command initializes the latest-ai-development Crew, assembling the agents and assigning them tasks as defined in your configuration.
 
